@@ -11,7 +11,7 @@ Where continent is not null
 order by 3,4
 
 
--- Select Data that we are going to be starting with
+-- Selecting Data
 
 Select Location, date, total_cases, new_cases, total_deaths, population
 From ProjectPortfolio..CovidDeaths
